@@ -1,4 +1,4 @@
-# Beginner developer/linux system admin
+# Beginner system and web developer/linux system admin
 ## Short info
 ### Languages
 Rust, C, C++, Java, C#, Go, Shell, Web pack (HTML/CSS/JS), Python
